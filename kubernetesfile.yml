@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: bankingandfinace
-          image: ibrahim2504/bankingandfinace:1
+          image: ibrahim2504/bankingandfinance:1
           ports:
             - containerPort: 8081
           env:
